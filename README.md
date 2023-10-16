@@ -5,3 +5,6 @@ This was completed for OU's UReCA summer fellowship and finished in the Fall 202
 
 This repo contains the webGL build and the necessary files to locally host the game or, in my case, upload to Simmer.io to play.
 Go here to play the game yourself! https://simmer.io/@EmmaS0813/subsurface-gasification
+
+Or, if you prefer QR code, here ya go!
+![Simmer_io_link](https://github.com/Emmas0813/Virtual-Reality-Project/assets/112003450/dbad756a-1f55-400d-98b1-5a01dc385573)
